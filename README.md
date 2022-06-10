@@ -1,7 +1,7 @@
 
 <div align="center">
   
-![hreat](hreat.jpg)
+![heart](heart.jpg)
   
 <h3>U seol</h3>
 
