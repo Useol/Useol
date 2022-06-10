@@ -1,7 +1,8 @@
 ### U seol 👋
 
-😄 Hello, I'm Yoo Seol, the publisher of the 2nd year.
-
+😄 Hello, I'm Yoo Seol, the publisher of the 2nd year.<br>
+was born on December 13, 1994.<br>
+✨ want to make a prettier and cleaner web page ✨<br><br>
 
 ## Skils
 
@@ -9,10 +10,7 @@
 
 <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe XD-FF61F6?style=flat-square&logo=Adobe XD&logoColor=white"/> <img src="https://img.shields.io/badge/Autodesk CAD-000000?style=flat-square&logo=Autodesk&logoColor=white"/> <img src="https://img.shields.io/badge/SketchUp-525C86?style=flat-square&logo=SketchUp&logoColor=white"/>
 
-## History
 
-- 수원정보과학고등학교 디자인 학부 졸업
-- 
 
 <!--
 **Useol/Useol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
