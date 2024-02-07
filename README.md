@@ -1,8 +1,6 @@
 
 <div align="center">
-  
-![heart](heart.jpg)
-  
+
 <h3>U seol</h3>
 
 😄 Hello, the publisher of the 3nd year.<br>
