@@ -3,13 +3,6 @@
 
 <h3>U seol</h3>
 
-😄 Hello, the publisher of the 3nd year.<br>
-was born on December 13, 1994.<br>
-✨ want to make a prettier and cleaner web page ✨<br><br>
-
-
-
-
 
 <h3>Skils</h3>
 
